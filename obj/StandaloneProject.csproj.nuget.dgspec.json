@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/StandaloneProject.csproj": {}
+  },
+  "projects": {
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/StandaloneProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/StandaloneProject.csproj",
+        "projectName": "StandaloneProject",
+        "projectPath": "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/StandaloneProject.csproj",
+        "packagesPath": "/Users/olasunkanmi/.nuget/packages/",
+        "outputPath": "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/olasunkanmi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0, )"
+            },
+            "Microsoft.Quantum.CSharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.27.244707, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.EntryPointDriver": {
+              "target": "Package",
+              "version": "[0.27.244707, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Katas": {
+              "target": "Package",
+              "version": "[0.27.244707, )"
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.27.244707, )"
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.27.244707, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.27.244707, )"
+            },
+            "Microsoft.Quantum.Targets.Interfaces": {
+              "target": "Package",
+              "version": "[0.27.244707, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Xunit": {
+              "target": "Package",
+              "version": "[0.27.244707, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+--proj
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/StandaloneProject"
+--build-exe
+--input
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/Kakuro.qs"
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/Test.qs"
+--output
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/obj/qsharp/"
+--references
+    "/Users/olasunkanmi/.nuget/packages/azure.core/1.25.0/lib/net5.0/Azure.Core.dll"
+    "/Users/olasunkanmi/.nuget/packages/azure.identity/1.5.0/lib/netstandard2.0/Azure.Identity.dll"
+    "/Users/olasunkanmi/.nuget/packages/azure.quantum.jobs/1.0.0-beta.3/lib/netstandard2.0/Azure.Quantum.Jobs.dll"
+    "/Users/olasunkanmi/.nuget/packages/azure.storage.blobs/12.13.1/lib/netstandard2.1/Azure.Storage.Blobs.dll"
+    "/Users/olasunkanmi/.nuget/packages/azure.storage.common/12.12.0/lib/netstandard2.0/Azure.Storage.Common.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.azure.quantum.client/0.27.244707/lib/netstandard2.1/Microsoft.Azure.Quantum.Client.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.dotnet.platformabstractions/1.0.3/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.extensions.dependencymodel/1.0.3/lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.identity.client/4.30.1/lib/netcoreapp2.1/Microsoft.Identity.Client.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.identity.client.extensions.msal/2.18.4/lib/netcoreapp2.1/Microsoft.Identity.Client.Extensions.Msal.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.BondSchemas.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.entrypointdriver/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.EntryPointDriver.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.katas/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Katas.Common.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.katas/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Katas.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsCompilationManager.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsCompiler.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsCore.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsDataStructures.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsDocumentationParser.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.qsharp.core/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QSharp.Core.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.qsharp.foundation/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QSharp.Foundation.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsOptimizations.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsSyntaxProcessor.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsTextProcessor.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.compiler/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.QsTransformations.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.runtime.core/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Runtime.Core.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.simulators/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Simulation.Common.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.simulators/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.simulators/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Simulators.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.standard/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Standard.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.targets.interfaces/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Targets.Interfaces.dll"
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.xunit/0.27.244707/lib/netstandard2.1/Microsoft.Quantum.Xunit.dll"
+    "/Users/olasunkanmi/.nuget/packages/windowsazure.storage/9.3.3/lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll"
+    "/Users/olasunkanmi/.nuget/packages/numsharp/0.20.5/lib/netstandard2.0/NumSharp.Core.dll"
+    "/Users/olasunkanmi/.nuget/packages/xunit.abstractions/2.0.1/lib/netstandard1.0/xunit.abstractions.dll"
+    "/Users/olasunkanmi/.nuget/packages/xunit.assert/2.3.1/lib/netstandard1.1/xunit.assert.dll"
+    "/Users/olasunkanmi/.nuget/packages/xunit.extensibility.core/2.3.1/lib/netstandard1.1/xunit.core.dll"
+    "/Users/olasunkanmi/.nuget/packages/xunit.extensibility.execution/2.3.1/lib/netstandard1.1/xunit.execution.dotnet.dll"
+--load
+    "/Users/olasunkanmi/.nuget/packages/microsoft.quantum.csharpgeneration/0.27.244707/build//../lib/netstandard2.1/Microsoft.Quantum.CSharpGeneration.dll"
+--runtime
+    FullComputation
+--skip-monomorphization
+--package-load-fallback-folders
+    "/Users/olasunkanmi/Documents/neu/spring_23/intro_to_quantum_computing/assignments/Kakuro Project/bin/Debug/net6.0/"
+--assembly-properties
+    DocsPackageId:StandaloneProject
+    ExecutionTarget:Any
+    AssemblyName:StandaloneProject
+    ProcessorArchitecture:Unspecified
+    TargetCapability:FullComputation
+    QSharpOutputType:QSharpExe
